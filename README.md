@@ -82,19 +82,6 @@ El objetivo de AcademiCO es proporcionar una solución completa, intuitiva y esc
 
 ---
 
-## 🛠 Tecnologías Utilizadas
-
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Frontend** | React 18, TypeScript, Vite |
-| **Estilos** | Tailwind CSS, shadcn/ui |
-| **Backend** | Supabase, PostgreSQL |
-| **Estado** | React Query, React Router |
-| **Formularios** | React Hook Form, Zod |
-| **Gráficos** | Recharts |
-
----
-
 ## 🚀 Instalación y Configuración
 
 ### 📋 Requisitos Previos
